@@ -175,6 +175,19 @@ cd data-integration-project
 pip install -r requirements.txt
 ```
 
+### Dataset Preparation
+
+1. Create a datasets directory:
+```
+mkdir datasets
+```
+2. Download the dataset files from [https://drive.google.com/file/d/1jF7lnMUffCX8U252MoY7jowb7VedFOp8/view] and place them in the datasets directory:
+
+* facebook_dataset.csv
+* google_dataset.csv
+* website_dataset.csv
+
+
 ## Usage
 
 Run the main integration script:
